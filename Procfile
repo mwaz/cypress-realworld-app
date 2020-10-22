@@ -1,1 +1,1 @@
-web: node index.tsx
+web: node dist/index.js
